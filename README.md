@@ -1,7 +1,9 @@
+# COCO-Keypoints-Demographics (COCO-KD) annotations
 
-README 
+The file [annotations.csv](annotations.csv) provides our annotations for a subset of images from the COCO 2017 validation set (keypoint challenge).
 
-The file 20220414_last_round_w_corrections.csv provides our annotations for a subset of images from the COCO 2014 validation set (keypoint challenge). 657 valid images (containing a face, of sufficient size in pixels) were identified; please refer to our main paper for additional methodological details. 
+657 valid images (containing a face, of sufficient size in pixels) were identified; please refer to our main paper for additional methodological details.  
+These annotations should only be used for fairness evaluation.
 
 For each image, identified by image ID, we provide values for age, gender, and skin tone, as annotated by three of the paper's authors. 
 
